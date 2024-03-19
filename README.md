@@ -1,1 +1,1 @@
-# Extensión de VSC para insertar mediantes comandos caracteres especiales
+## Extensión para VSC, permite insertar mediante comandos caracteres especiales.
