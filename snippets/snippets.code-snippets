@@ -94,5 +94,13 @@
   "tilde": {
     "prefix": ["!tilde", "!ti"],
     "body": " ~ "
-  }
+  }, 
+  "arroba": {
+    "prefix": ["!arroba", "!ar"],
+    "body": " @ "
+  },
+  "hashtag": {
+    "prefix": ["!hashtag", "!ha"],
+    "body": " # "
+  },
 }
