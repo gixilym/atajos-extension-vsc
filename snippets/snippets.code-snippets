@@ -1,0 +1,98 @@
+{
+  "bocas": {
+    "prefix": ["!bocas", "!bo"],
+    "body": " > < "
+  },
+  "enie": {
+    "prefix": ["!enie", "!en"],
+    "body": " ñ "
+  },
+  "barra": {
+    "prefix": ["!barra", "!ba"],
+    "body": " / "
+  },
+  "parentesis": {
+    "prefix": ["!parentesis", "!par"],
+    "body": " ( ) "
+  },
+  "corchete": {
+    "prefix": ["!corchete", "!cor"],
+    "body": " [ ] "
+  },
+  "llave": {
+    "prefix": ["!llave", "!ll"],
+    "body": " { } "
+  },
+  "diagonal": {
+    "prefix": ["!diagonal", "!di"],
+    "body": " \\ "
+  },
+  "exclamacion": {
+    "prefix": ["!exclamacion", "!ex"],
+    "body": " ! "
+  },
+  "ampersand": {
+    "prefix": ["!ampersand", "!am"],
+    "body": " & "
+  },
+  "porcentaje": {
+    "prefix": ["!porcentaje", "!po"],
+    "body": " % "
+  },
+  "interrogacion": {
+    "prefix": ["!interrogacion", "!in"],
+    "body": " ¿ ? "
+  },
+  "pleca": {
+    "prefix": ["!pleca", "!pl"],
+    "body": " | "
+  },
+  "igual": {
+    "prefix": ["!igual", "!ig"],
+    "body": " = "
+  },
+  "comilla": {
+    "prefix": ["!comilla", "!co"],
+    "body": " ' "
+  },
+  "doble-comilla": {
+    "prefix": ["!doblecomilla", "!dc"],
+    "body": " \" "
+  },
+  "guion-bajo": {
+    "prefix": ["!guionbajo", "gb"],
+    "body": " _ "
+  },
+  "punto": {
+    "prefix": ["!punto", "!pu"],
+    "body": " . "
+  },
+  "dos-puntos": {
+    "prefix": ["!dospuntos", "!dp"],
+    "body": " : "
+  },
+  "coma": {
+    "prefix": ["!coma", "!cm"],
+    "body": " , "
+  },
+  "punto-coma": {
+    "prefix": ["!puntoycoma", "!pyc"],
+    "body": " ; "
+  },
+  "acento-grave": {
+    "prefix": ["!grave", "!gr"],
+    "body": " ` "
+  },
+  "mas": {
+    "prefix": "!mas",
+    "body": " + "
+  },
+  "asterisco": {
+    "prefix": ["!asterisco", "!at"],
+    "body": " * "
+  },
+  "tilde": {
+    "prefix": ["!tilde", "!ti"],
+    "body": " ~ "
+  }
+}
