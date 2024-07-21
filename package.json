@@ -2,7 +2,7 @@
   "name": "caracteres-especiales-atajos",
   "displayName": "Atajos para caracteres especiales",
   "description": "Atajos para insertar caracteres especiales mediante comandos tales como: !bo, !at, entre otros.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "icon": "logo.png",
   "publisher": "Atajosdecaracteresespeciales",
