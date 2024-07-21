@@ -3,6 +3,8 @@
   "displayName": "Atajos para caracteres especiales",
   "description": "Atajos para insertar caracteres especiales mediante comandos tales como: !bo, !at, entre otros.",
   "version": "1.0.2",
+  "license": "MIT",
+  "icon": "./icon.png",
   "publisher": "Atajosdecaracteresespeciales",
   "engines": {
     "vscode": "^1.87.0"
