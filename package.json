@@ -4,8 +4,12 @@
   "description": "Atajos para insertar caracteres especiales mediante comandos tales como: !bo, !at, entre otros.",
   "version": "1.0.2",
   "license": "MIT",
-  "icon": "./icon.png",
+  "icon": "logo.png",
   "publisher": "Atajosdecaracteresespeciales",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gixilym/atajos-extension-vsc"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
