@@ -1,10 +1,12 @@
-# Atajos de Caracteres Especiales ✨
+## Atajos para caracteres especiales ✨
 
-Esta extensión te permite insertar caracteres especiales utilizando comandos abreviados en Visual Studio Code.
+### Uso 🚀
+Para utilizar un atajo, escribe el prefijo `!` seguido del nombre del atajo o presiona CTRL + ESPACIO y seleccionalo desde el menú desplegado.
+Por ejemplo, para insertar el símbolo de interrogación (¿ ?), escribe `!in` o `!interrogacion` y presiona Enter, Tab o da clic.
 
-## Comandos Disponibles
+### Comandos disponibles #️⃣
 
-| Carácter       | Comandos Abreviados    |
+| carácter       | comando abreviado      |
 |----------------|------------------------|
 | > <            | `!bocas`, `!bo`        |
 | ñ              | `!enie`, `!en`         |
@@ -32,11 +34,3 @@ Esta extensión te permite insertar caracteres especiales utilizando comandos ab
 | ~              | `!tilde`, `!ti`        |
 | @              | `!arroba`, `!ar`       |
 | #              | `!hashtag`, `!ha`      |
-
-## Uso 🚀
-
-Para utilizar un atajo, escribe el prefijo `!` seguido del nombre del atajo o presiona CTRL + ESPACIO y seleccionalo desde el menú desplegado.
-
-Por ejemplo, para insertar el símbolo de interrogación (¿ ?), escribe `!in` o `!interrogacion` y presiona Enter, Tab o da clic.
-
-¡Disfruta de tus atajos y haz tu flujo de trabajo más eficiente! 😊

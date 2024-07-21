@@ -1,8 +1,8 @@
 {
   "name": "caracteres-especiales-atajos",
-  "displayName": "Caracteres especiales atajos",
+  "displayName": "Atajos para caracteres especiales",
   "description": "Atajos para insertar caracteres especiales mediante comandos tales como: !bo, !at, entre otros.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "Atajosdecaracteresespeciales",
   "engines": {
     "vscode": "^1.87.0"
